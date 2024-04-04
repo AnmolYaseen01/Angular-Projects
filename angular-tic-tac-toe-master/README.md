@@ -1,3 +1,2 @@
-# Angular Tic-Tac-Toe PWA
+# Angular Tic-Tac-Toe 
 
-[Full Angular Course](https://fireship.io/courses/angular/)
